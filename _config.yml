@@ -3,3 +3,5 @@ source: .
 destination: _site
 lsi: false
 pygments: true
+
+theme: jekyll-theme-time-machine
